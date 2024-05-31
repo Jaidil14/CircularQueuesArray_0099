@@ -88,3 +88,7 @@ public:
         }
     }
 };
+
+int main() {
+    
+}
